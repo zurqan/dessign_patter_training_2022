@@ -1,1 +1,1 @@
-# dessign_patter_training_2022
+# dessign_pattern_training_2022
